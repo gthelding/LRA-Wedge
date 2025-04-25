@@ -43,7 +43,7 @@ If you do not already have Python installed, download the latest version for Win
 
 - [Download Python for Windows](https://www.python.org/downloads/windows/)[^1]
 
-After downloading, run the installer and **ensure you check the box to "Add Python to PATH"** during installation for easier command-line use[^1][^4].
+After downloading, run the installer and **ensure you check the box to "Add Python to PATH"** during installation for easier command-line use.
 
 To verify your installation, open `Command Prompt` or `PowerShell` and run:
 
@@ -57,7 +57,7 @@ or
 py --version
 ```
 
-You should see output such as `Python 3.x.x` indicating Python is installed[^1][^4].
+You should see output such as `Python 3.x.x` indicating Python is installed.
 
 ### Install Dependencies
 
@@ -77,7 +77,7 @@ pip install requests
 ### 4) Run the Script
 
 a. **Open Command Prompt or PowerShell**
-    - Press the `Win` key, type `cmd` or `PowerShell`, and press `Enter`[^1][^4].
+    - Press the `Win` key, type `cmd` or `PowerShell`, and press `Enter`.
 b. **Navigate to the script directory**
 
 For example, if you saved `flex-wedge.py` to your Desktop:
@@ -98,7 +98,7 @@ or
 py flex-wedge.py
 ```
 
-*(Use `python` or `py` depending on your system configuration[^2][^4].)*
+*(Use `python` or `py` depending on your system configuration.)*
 4. **Acknowledge the warning** by typing `YES` when prompted.
 5. **SmartSDR should now be able to discover the LRA FlexRadio** as if it were on the local network.
 
@@ -133,7 +133,7 @@ Contributions are welcome from LRA members. Please open an issue or submit a pul
 
 ## License
 
-This project is licensed under the terms of the GNU General Public License v3.0 (GPLv3). See the [LICENSE](LICENSE) file for details[^3][^5][^6][^7].
+This project is licensed under the terms of the GNU General Public License v3.0 (GPLv3). See the [LICENSE](LICENSE) file for details.
 
 ---
 
