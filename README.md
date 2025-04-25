@@ -41,7 +41,7 @@ A utility for enabling SmartSDR to discover and connect to a remote FlexRadio ov
 
 If you do not already have Python installed, download the latest version for Windows from the official Python website:
 
-- [Download Python for Windows](https://www.python.org/downloads/windows/)[^1]
+- [Download Python for Windows](https://www.python.org/downloads/windows/)
 
 After downloading, run the installer and **ensure you check the box to "Add Python to PATH"** during installation for easier command-line use.
 
