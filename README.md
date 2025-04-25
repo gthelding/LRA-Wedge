@@ -76,9 +76,9 @@ pip install requests
 ### 3) Open up SmartSDR
 ### 4) Run the Script
 
-1. **Open Command Prompt or PowerShell**
+a. **Open Command Prompt or PowerShell**
     - Press the `Win` key, type `cmd` or `PowerShell`, and press `Enter`[^1][^4].
-2. **Navigate to the script directory**
+b. **Navigate to the script directory**
 
 For example, if you saved `flex-wedge.py` to your Desktop:
 
@@ -86,7 +86,7 @@ For example, if you saved `flex-wedge.py` to your Desktop:
 cd Desktop
 ```
 
-3. **Run the script**
+c. **Run the script**
 
 ```powershell
 python flex-wedge.py
