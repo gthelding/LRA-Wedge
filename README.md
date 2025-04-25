@@ -23,7 +23,7 @@ A utility for enabling SmartSDR to discover and connect to a remote FlexRadio ov
 
 ## Overview
 
-**Flex Broadcast Wedge** (`flex-wedge.py`) is a Python script that allows SmartSDR clients to discover and connect to a FlexRadio transceiver on a remote network via the LRA Wireguard VPN, bypassing the need for a SmartLink account. *Note: MacOS users do not need to use this script.*
+**Flex Broadcast Wedge** (`flex-wedge.py`) is a Python script that allows SmartSDR clients to discover and connect to a FlexRadio transceiver on a remote network via the LRA Wireguard VPN, bypassing the need for a SmartLink account.
 
 ---
 
@@ -37,7 +37,7 @@ A utility for enabling SmartSDR to discover and connect to a remote FlexRadio ov
 
 ## Installation
 
-### Installing Python on Windows
+### Installing Python on Windows (MacOS instructions coming soon!)
 
 If you do not already have Python installed, download the latest version for Windows from the official Python website:
 
