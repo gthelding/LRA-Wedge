@@ -1,7 +1,7 @@
 
 # The Lakeshore Repeater Association Flex Broadcast Wedge
 
-A utility for enabling SmartSDR to discover and connect to a remote FlexRadio over the LRA Wireguard VPN, without requiring a SmartLink account. Provided and maintained by the [Lakeshore Repeater Association (LRA)](https://www.kr9rk.com/) for use by its members.
+A utility for enabling SmartSDR to discover and connect to a remote FlexRadio over the LRA Wireguard VPN, without requiring a SmartLink account. Provided and maintained by the [Lakeshore Repeater Association (LRA)](https://www.kr9rk.com/) for use by its members. This is not provided by or supported by FlexRadio.
 
 ---
 
